@@ -17,4 +17,10 @@
 \contentsline {section}{\numberline {4.1}Definitions}{8}
 \contentsline {section}{\numberline {4.2}Principles}{8}
 \contentsline {section}{\numberline {4.3}Comments}{8}
-\contentsline {section}{\numberline {4.4}Additional References}{8}
+\contentsline {section}{\numberline {4.4}Additional References}{9}
+\contentsline {part}{I\hspace {1em}Introduction to the Book of Mormon}{10}
+\contentsline {chapter}{\numberline {5}1st Paragraph}{11}
+\contentsline {section}{\numberline {5.1}Definitions}{11}
+\contentsline {section}{\numberline {5.2}Principles}{12}
+\contentsline {section}{\numberline {5.3}Comments}{12}
+\contentsline {section}{\numberline {5.4}Additional References}{12}
