@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.8.21)  22 MAY 2017 09:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.8.21)  24 MAY 2017 08:59
 entering extended mode
 **"Book of Mormon Study.tex"
 ("Book of Mormon Study.tex"
@@ -69,22 +69,25 @@ Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \verbatim@line=\toks17
 \verbatim@in@stream=\read1
 )
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+\bigstrutjot=\dimen111
+)
 \@indexfile=\write3
 
 Writing index file "Book of Mormon Study".idx
 ("Book of Mormon Study.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -121,9 +124,9 @@ LaTeX Font Info:    ... okay on input line 55.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 56.
+(Font)              <14.4> on input line 57.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 56.
+(Font)              <7> on input line 57.
 [1
 
 {C:/Users/jarin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
@@ -142,12 +145,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ]
 Chapter 1.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 83.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 84.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 83.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 84.
  [4
 
 ]
@@ -159,40 +162,37 @@ Chapter 2.
 [8
 
 ] [9] [10] [11] [12] [13]
-Overfull \hbox (19.0399pt too wide) in paragraph at lines 428--429
+Overfull \hbox (19.0399pt too wide) in paragraph at lines 429--430
 []\OT1/cmr/m/n/12 http://www.templestudy.com/2008/08/13/many-more-ordinances-in
 cluding-resurrection/ 
  []
 
-[14] [15] [16]
+[14] [15] [16] [17] [18] [19] [20]
+Chapter 3.
+[21
 
-LaTeX Warning: Reference `intro:8th' on page 1 undefined on input line 564.
-
-("Book of Mormon Study.ind" [17] [18
+] ("Book of Mormon Study.ind" [22] [23
 
 
-]) ("Book of Mormon Study.aux")
-
-LaTeX Warning: There were undefined references.
-
- ) 
+]) ("Book of Mormon Study.aux") ) 
 Here is how much of TeX's memory you used:
- 2567 strings out of 493673
- 48458 string characters out of 3141530
- 123645 words of memory out of 3000000
- 5944 multiletter control sequences out of 15000+200000
+ 2614 strings out of 493673
+ 49403 string characters out of 3141530
+ 124645 words of memory out of 3000000
+ 5987 multiletter control sequences out of 15000+200000
  9761 words of font info for 34 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 24i,8n,32p,2364b,260s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:
-/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Pr
-ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program 
-Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "Book of Mormon Study.pdf" (19 pages, 115156 bytes).
+ 24i,9n,32p,2364b,260s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmti12.pfb>
+Output written on "Book of Mormon Study.pdf" (24 pages, 125370 bytes).
 PDF statistics:
- 88 PDF objects out of 1000 (max. 8388607)
+ 103 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
