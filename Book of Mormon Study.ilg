@@ -1,16 +1,17 @@
 This is makeindex, version 2.15 [MiKTeX 2.9] (kpathsea + Thai support).
 Scanning input file Book of Mormon Study.idx....
-!! Input index error (file = Book of Mormon Study.idx, line = 12):
-   -- Illegal null field.
-!! Input index error (file = Book of Mormon Study.idx, line = 13):
+!! Input index error (file = Book of Mormon Study.idx, line = 22):
    -- Illegal null field.
 
-!! Input index error (file = Book of Mormon Study.idx, line = 17):
+!! Input index error (file = Book of Mormon Study.idx, line = 26):
    -- Illegal null field.
-!! Input index error (file = Book of Mormon Study.idx, line = 18):
+!! Input index error (file = Book of Mormon Study.idx, line = 27):
    -- Illegal null field.
-done (14 entries accepted, 4 rejected).
-Sorting entries....done (57 comparisons).
-Generating output file Book of Mormon Study.ind....done (30 lines written, 0 warnings).
+
+!! Input index error (file = Book of Mormon Study.idx, line = 30):
+   -- Illegal null field.
+done (26 entries accepted, 4 rejected).
+Sorting entries....done (128 comparisons).
+Generating output file Book of Mormon Study.ind....done (50 lines written, 0 warnings).
 Output written in Book of Mormon Study.ind.
 Transcript written in Book of Mormon Study.ilg.
