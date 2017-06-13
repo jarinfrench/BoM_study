@@ -12,8 +12,13 @@ Scanning input file Book of Mormon Study.idx....
    -- Illegal null field.
 !! Input index error (file = Book of Mormon Study.idx, line = 31):
    -- Illegal null field.
-done (27 entries accepted, 5 rejected).
-Sorting entries....done (129 comparisons).
-Generating output file Book of Mormon Study.ind....done (51 lines written, 0 warnings).
+
+!! Input index error (file = Book of Mormon Study.idx, line = 33):
+   -- Illegal null field.
+!! Input index error (file = Book of Mormon Study.idx, line = 34):
+   -- Illegal null field.
+done (28 entries accepted, 7 rejected).
+Sorting entries....done (131 comparisons).
+Generating output file Book of Mormon Study.ind....done (52 lines written, 0 warnings).
 Output written in Book of Mormon Study.ind.
 Transcript written in Book of Mormon Study.ilg.
