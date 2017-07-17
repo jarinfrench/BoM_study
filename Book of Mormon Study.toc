@@ -4,22 +4,26 @@
 \contentsline {subsection}{\numberline {1.1.1}Definitions}{6}{subsection.1.1.1.1}
 \contentsline {subsection}{\numberline {1.1.2}Principles and Tags}{6}{subsection.1.1.1.2}
 \contentsline {subsection}{\numberline {1.1.3}Comments}{6}{subsection.1.1.1.3}
-\contentsline {subsection}{\numberline {1.1.4}Additional References}{6}{subsection.1.1.1.4}
+\contentsline {subsection}{\numberline {1.1.4}Likening}{6}{subsection.1.1.1.4}
+\contentsline {subsection}{\numberline {1.1.5}Additional References}{6}{subsection.1.1.1.5}
 \contentsline {section}{\numberline {1.2}2nd Paragraph}{7}{section.1.1.2}
 \contentsline {subsection}{\numberline {1.2.1}Definitions}{7}{subsection.1.1.2.1}
 \contentsline {subsection}{\numberline {1.2.2}Principles and Tags}{7}{subsection.1.1.2.2}
 \contentsline {subsection}{\numberline {1.2.3}Comments}{7}{subsection.1.1.2.3}
-\contentsline {subsection}{\numberline {1.2.4}Additional References}{7}{subsection.1.1.2.4}
+\contentsline {subsection}{\numberline {1.2.4}Likening}{7}{subsection.1.1.2.4}
+\contentsline {subsection}{\numberline {1.2.5}Additional References}{8}{subsection.1.1.2.5}
 \contentsline {section}{\numberline {1.3}3rd Paragraph}{8}{section.1.1.3}
 \contentsline {subsection}{\numberline {1.3.1}Definitions}{8}{subsection.1.1.3.1}
 \contentsline {subsection}{\numberline {1.3.2}Principles and Tags}{8}{subsection.1.1.3.2}
 \contentsline {subsection}{\numberline {1.3.3}Comments}{9}{subsection.1.1.3.3}
-\contentsline {subsection}{\numberline {1.3.4}Additional References}{9}{subsection.1.1.3.4}
+\contentsline {subsection}{\numberline {1.3.4}Likening}{9}{subsection.1.1.3.4}
+\contentsline {subsection}{\numberline {1.3.5}Additional References}{9}{subsection.1.1.3.5}
 \contentsline {section}{\numberline {1.4}4th Paragraph}{9}{section.1.1.4}
 \contentsline {subsection}{\numberline {1.4.1}Definitions}{9}{subsection.1.1.4.1}
 \contentsline {subsection}{\numberline {1.4.2}Principles and Tags}{10}{subsection.1.1.4.2}
 \contentsline {subsection}{\numberline {1.4.3}Comments}{10}{subsection.1.1.4.3}
-\contentsline {subsection}{\numberline {1.4.4}Additional References}{10}{subsection.1.1.4.4}
+\contentsline {subsection}{\numberline {1.4.4}Likening}{10}{subsection.1.1.4.4}
+\contentsline {subsection}{\numberline {1.4.5}Additional References}{10}{subsection.1.1.4.5}
 \contentsline {section}{\numberline {1.5}General Comments on \Cref {chapter:titlePage}}{10}{section.1.1.5}
 \contentsline {chapter}{\numberline {2}Introduction}{11}{chapter.1.2}
 \contentsline {section}{\numberline {2.1}1st Paragraph}{11}{section.1.2.1}
@@ -221,3 +225,13 @@
 \contentsline {subsection}{\numberline {1.5.2}Principles and Tags}{65}{subsection.2.1.5.2}
 \contentsline {subsection}{\numberline {1.5.3}Comments}{65}{subsection.2.1.5.3}
 \contentsline {subsection}{\numberline {1.5.4}Additional References}{65}{subsection.2.1.5.4}
+\contentsline {section}{\numberline {1.6}Verse 6}{66}{section.2.1.6}
+\contentsline {subsection}{\numberline {1.6.1}Definitions}{66}{subsection.2.1.6.1}
+\contentsline {subsection}{\numberline {1.6.2}Principles and Tags}{66}{subsection.2.1.6.2}
+\contentsline {subsection}{\numberline {1.6.3}Comments}{67}{subsection.2.1.6.3}
+\contentsline {subsection}{\numberline {1.6.4}Additional References}{67}{subsection.2.1.6.4}
+\contentsline {section}{\numberline {1.7}Verse 7}{67}{section.2.1.7}
+\contentsline {subsection}{\numberline {1.7.1}Definitions}{67}{subsection.2.1.7.1}
+\contentsline {subsection}{\numberline {1.7.2}Principles and Tags}{68}{subsection.2.1.7.2}
+\contentsline {subsection}{\numberline {1.7.3}Comments}{68}{subsection.2.1.7.3}
+\contentsline {subsection}{\numberline {1.7.4}Additional References}{69}{subsection.2.1.7.4}
