@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.8.21)  19 JUL 2017 08:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.8.21)  21 JUL 2017 09:11
 entering extended mode
 **"Book of Mormon Study.tex"
 ("Book of Mormon Study.tex"
@@ -353,131 +353,150 @@ Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
  [38] [39] [40]
-[41] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54]
+[41] [42]
+
+LaTeX Warning: Reference `1Nephi1:8' on page 1 undefined on input line 1389.
+
+
+LaTeX Warning: Reference `1Nephi1:8' on page 1 undefined on input line 1394.
+
+[43] [44]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[55] [56]
+[45] [46] [47] [48] [49] [50]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[51] [52] [53]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[54] [55] [56] [57]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[58]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 1959.
+(hyperref)                removing `\@ifnextchar' on input line 2010.
 
-[57] [58] [59
+[59] [60
 
 ]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1963.
+(hyperref)                than one, level fixed on input line 2014.
 
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1985.
+(hyperref)                than one, level fixed on input line 2036.
 
-[60] [61]
+[61] [62]
 Chapter 1.
 
-LaTeX Warning: Reference `1Nephi17' on page 1 undefined on input line 2060.
+LaTeX Warning: Reference `1Nephi17' on page 1 undefined on input line 2111.
 
 
-LaTeX Warning: Reference `1Nephi7' on page 1 undefined on input line 2060.
+LaTeX Warning: Reference `1Nephi7' on page 1 undefined on input line 2111.
 
 
-LaTeX Warning: Reference `1Nephi3' on page 1 undefined on input line 2060.
+LaTeX Warning: Reference `1Nephi3' on page 1 undefined on input line 2111.
 
-[62
+[63
 
 ]
 
-LaTeX Warning: Reference `1Nephi3' on page 1 undefined on input line 2067.
+LaTeX Warning: Reference `1Nephi3' on page 1 undefined on input line 2118.
 
 
-LaTeX Warning: Reference `1Nephi7' on page 1 undefined on input line 2068.
+LaTeX Warning: Reference `1Nephi7' on page 1 undefined on input line 2119.
 
 
-LaTeX Warning: Reference `1Nephi17' on page 1 undefined on input line 2069.
+LaTeX Warning: Reference `1Nephi17' on page 1 undefined on input line 2120.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[63] [64]
+[64] [65]
 
-LaTeX Warning: Reference `Mormon8' on page 1 undefined on input line 2140.
-
-
-LaTeX Warning: Reference `Mormon6' on page 1 undefined on input line 2140.
+LaTeX Warning: Reference `Mormon8' on page 1 undefined on input line 2191.
 
 
-LaTeX Warning: Reference `Moroni10:5' on page 1 undefined on input line 2141.
-
-[65] [66] [67]
-
-LaTeX Warning: Reference `1Nephi1:14' on page 1 undefined on input line 2280.
+LaTeX Warning: Reference `Mormon6' on page 1 undefined on input line 2191.
 
 
-LaTeX Warning: Reference `1Nephi1:13' on page 1 undefined on input line 2280.
+LaTeX Warning: Reference `Moroni10:5' on page 1 undefined on input line 2192.
 
-[68]
+[66] [67] [68]
 
-LaTeX Warning: Reference `1Nephi1:14' on page 1 undefined on input line 2286.
+LaTeX Warning: Reference `1Nephi1:14' on page 1 undefined on input line 2331.
 
 
-LaTeX Warning: Reference `1Nephi1:13' on page 1 undefined on input line 2286.
+LaTeX Warning: Reference `1Nephi1:13' on page 1 undefined on input line 2331.
 
 [69]
 
-LaTeX Warning: Reference `Helaman10' on page 1 undefined on input line 2338.
+LaTeX Warning: Reference `1Nephi1:14' on page 1 undefined on input line 2337.
 
 
-LaTeX Warning: Reference `Helaman10:2' on page 1 undefined on input line 2338.
-
-
-LaTeX Warning: Reference `Mosiah27:19' on page 1 undefined on input line 2340.
-
-
-LaTeX Warning: Reference `Mosiah13:3' on page 1 undefined on input line 2340.
-
-
-LaTeX Warning: Reference `1Nephi17:47' on page 1 undefined on input line 2340.
+LaTeX Warning: Reference `1Nephi1:13' on page 1 undefined on input line 2337.
 
 [70]
 
-LaTeX Warning: Reference `Helaman10:2' on page 1 undefined on input line 2347.
+LaTeX Warning: Reference `Helaman10' on page 1 undefined on input line 2389.
 
 
-LaTeX Warning: Reference `1Nephi17:48' on page 1 undefined on input line 2348.
+LaTeX Warning: Reference `Helaman10:2' on page 1 undefined on input line 2389.
 
 
-LaTeX Warning: Reference `1Nephi17:47' on page 1 undefined on input line 2348.
+LaTeX Warning: Reference `Mosiah27:19' on page 1 undefined on input line 2391.
 
 
-LaTeX Warning: Reference `Mosiah13:3' on page 1 undefined on input line 2349.
+LaTeX Warning: Reference `Mosiah13:3' on page 1 undefined on input line 2391.
 
 
-LaTeX Warning: Reference `Mosiah27:19' on page 1 undefined on input line 2350.
+LaTeX Warning: Reference `1Nephi17:47' on page 1 undefined on input line 2391.
 
-("Book of Mormon Study.ind" [71] [72
+[71]
+
+LaTeX Warning: Reference `Helaman10:2' on page 1 undefined on input line 2399.
+
+
+LaTeX Warning: Reference `1Nephi17:48' on page 1 undefined on input line 2400.
+
+
+LaTeX Warning: Reference `1Nephi17:47' on page 1 undefined on input line 2400.
+
+
+LaTeX Warning: Reference `Mosiah13:3' on page 1 undefined on input line 2401.
+
+
+LaTeX Warning: Reference `Mosiah27:19' on page 1 undefined on input line 2402.
+
+("Book of Mormon Study.ind" [72] [73
 
 ])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2355.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2355.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2407.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2407.
  ("Book of Mormon Study.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2355.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2355.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2407.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2407.
 
 Package rerunfilecheck Info: File `"Book of Mormon Study".out' has not changed.
 
-(rerunfilecheck)             Checksum: 6FAAB699157777A4F79D4D44FF3192CD;11574.
+(rerunfilecheck)             Checksum: DFCDCC28694F8122343B044587FDB670;11574.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2355.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2407.
  ) 
 Here is how much of TeX's memory you used:
- 8215 strings out of 493673
- 136767 string characters out of 3141530
- 246660 words of memory out of 3000000
- 11209 multiletter control sequences out of 15000+200000
+ 8265 strings out of 493673
+ 137710 string characters out of 3141530
+ 248196 words of memory out of 3000000
+ 11242 multiletter control sequences out of 15000+200000
  10282 words of font info for 36 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  29i,9n,32p,3236b,521s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -489,9 +508,9 @@ m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program
 Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Fi
 les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Program Files
  (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on "Book of Mormon Study.pdf" (73 pages, 391952 bytes).
+Output written on "Book of Mormon Study.pdf" (74 pages, 400011 bytes).
 PDF statistics:
- 1416 PDF objects out of 1440 (max. 8388607)
- 323 named destinations out of 1000 (max. 500000)
+ 1443 PDF objects out of 1728 (max. 8388607)
+ 340 named destinations out of 1000 (max. 500000)
  1289 words of extra memory for PDF output out of 10000 (max. 10000000)
 
