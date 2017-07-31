@@ -13,267 +13,267 @@
 \contentsline {subsection}{\numberline {1.2.5}Additional References}{11}{subsection.1.1.2.5}
 \contentsline {section}{\numberline {1.3}3rd Paragraph}{11}{section.1.1.3}
 \contentsline {subsection}{\numberline {1.3.1}Definitions}{11}{subsection.1.1.3.1}
-\contentsline {subsection}{\numberline {1.3.2}Principles and Tags}{11}{subsection.1.1.3.2}
+\contentsline {subsection}{\numberline {1.3.2}Principles and Tags}{12}{subsection.1.1.3.2}
 \contentsline {subsection}{\numberline {1.3.3}Comments}{12}{subsection.1.1.3.3}
 \contentsline {subsection}{\numberline {1.3.4}Likening}{12}{subsection.1.1.3.4}
 \contentsline {subsection}{\numberline {1.3.5}Additional References}{12}{subsection.1.1.3.5}
-\contentsline {section}{\numberline {1.4}4th Paragraph}{12}{section.1.1.4}
-\contentsline {subsection}{\numberline {1.4.1}Definitions}{12}{subsection.1.1.4.1}
+\contentsline {section}{\numberline {1.4}4th Paragraph}{13}{section.1.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Definitions}{13}{subsection.1.1.4.1}
 \contentsline {subsection}{\numberline {1.4.2}Principles and Tags}{13}{subsection.1.1.4.2}
 \contentsline {subsection}{\numberline {1.4.3}Comments}{13}{subsection.1.1.4.3}
 \contentsline {subsection}{\numberline {1.4.4}Likening}{13}{subsection.1.1.4.4}
 \contentsline {subsection}{\numberline {1.4.5}Additional References}{13}{subsection.1.1.4.5}
-\contentsline {section}{\numberline {1.5}General Comments on \Cref {chapter:titlePage}}{13}{section.1.1.5}
-\contentsline {chapter}{\numberline {2}Introduction}{14}{chapter.1.2}
-\contentsline {section}{\numberline {2.1}1st Paragraph}{14}{section.1.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Definitions}{14}{subsection.1.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Principles and Tags}{15}{subsection.1.2.1.2}
-\contentsline {subsection}{\numberline {2.1.3}Comments}{15}{subsection.1.2.1.3}
-\contentsline {subsection}{\numberline {2.1.4}Likening}{15}{subsection.1.2.1.4}
-\contentsline {subsection}{\numberline {2.1.5}Additional References}{15}{subsection.1.2.1.5}
-\contentsline {section}{\numberline {2.2}2nd Paragraph}{16}{section.1.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Definitions}{16}{subsection.1.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Principles and Tags}{16}{subsection.1.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}Comments}{16}{subsection.1.2.2.3}
-\contentsline {subsection}{\numberline {2.2.4}Likening}{17}{subsection.1.2.2.4}
-\contentsline {subsection}{\numberline {2.2.5}Additional References}{17}{subsection.1.2.2.5}
-\contentsline {section}{\numberline {2.3}3rd Paragraph}{17}{section.1.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Definitions}{17}{subsection.1.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Principles and Tags}{18}{subsection.1.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}Comments}{18}{subsection.1.2.3.3}
-\contentsline {subsection}{\numberline {2.3.4}Likening}{18}{subsection.1.2.3.4}
-\contentsline {subsection}{\numberline {2.3.5}Additional References}{19}{subsection.1.2.3.5}
-\contentsline {section}{\numberline {2.4}4th Paragraph}{19}{section.1.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Definitions}{19}{subsection.1.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}Principles and Tags}{19}{subsection.1.2.4.2}
-\contentsline {subsection}{\numberline {2.4.3}Comments}{19}{subsection.1.2.4.3}
-\contentsline {subsection}{\numberline {2.4.4}Likening}{20}{subsection.1.2.4.4}
-\contentsline {subsection}{\numberline {2.4.5}Additional References}{20}{subsection.1.2.4.5}
-\contentsline {section}{\numberline {2.5}5th Paragraph}{20}{section.1.2.5}
-\contentsline {subsection}{\numberline {2.5.1}Definitions}{21}{subsection.1.2.5.1}
-\contentsline {subsection}{\numberline {2.5.2}Principles and Tags}{21}{subsection.1.2.5.2}
-\contentsline {subsection}{\numberline {2.5.3}Comments}{21}{subsection.1.2.5.3}
-\contentsline {subsection}{\numberline {2.5.4}Likening}{21}{subsection.1.2.5.4}
-\contentsline {subsection}{\numberline {2.5.5}Additional References}{21}{subsection.1.2.5.5}
-\contentsline {section}{\numberline {2.6}6th Paragraph}{21}{section.1.2.6}
-\contentsline {subsection}{\numberline {2.6.1}Definitions}{22}{subsection.1.2.6.1}
-\contentsline {subsection}{\numberline {2.6.2}Principles and Tags}{22}{subsection.1.2.6.2}
-\contentsline {subsection}{\numberline {2.6.3}Comments}{22}{subsection.1.2.6.3}
-\contentsline {subsection}{\numberline {2.6.4}Likening}{23}{subsection.1.2.6.4}
-\contentsline {subsection}{\numberline {2.6.5}Additional References}{23}{subsection.1.2.6.5}
-\contentsline {section}{\numberline {2.7}7th Paragraph}{23}{section.1.2.7}
-\contentsline {subsection}{\numberline {2.7.1}Definitions}{23}{subsection.1.2.7.1}
-\contentsline {subsection}{\numberline {2.7.2}Principles and Tags}{23}{subsection.1.2.7.2}
-\contentsline {subsection}{\numberline {2.7.3}Comments}{24}{subsection.1.2.7.3}
-\contentsline {subsection}{\numberline {2.7.4}Likening}{24}{subsection.1.2.7.4}
-\contentsline {subsection}{\numberline {2.7.5}Additional References}{24}{subsection.1.2.7.5}
-\contentsline {section}{\numberline {2.8}8th Paragraph}{25}{section.1.2.8}
-\contentsline {subsection}{\numberline {2.8.1}Definitions}{25}{subsection.1.2.8.1}
-\contentsline {subsection}{\numberline {2.8.2}Principles and Tags}{25}{subsection.1.2.8.2}
-\contentsline {subsection}{\numberline {2.8.3}Comments}{26}{subsection.1.2.8.3}
-\contentsline {subsection}{\numberline {2.8.4}Likening}{26}{subsection.1.2.8.4}
-\contentsline {subsection}{\numberline {2.8.5}Additional References}{26}{subsection.1.2.8.5}
-\contentsline {section}{\numberline {2.9}9th Paragraph}{26}{section.1.2.9}
-\contentsline {subsection}{\numberline {2.9.1}Definitions}{26}{subsection.1.2.9.1}
-\contentsline {subsection}{\numberline {2.9.2}Principles and Tags}{27}{subsection.1.2.9.2}
-\contentsline {subsection}{\numberline {2.9.3}Comments}{27}{subsection.1.2.9.3}
-\contentsline {subsection}{\numberline {2.9.4}Likening}{28}{subsection.1.2.9.4}
-\contentsline {subsection}{\numberline {2.9.5}Additional References}{28}{subsection.1.2.9.5}
-\contentsline {section}{\numberline {2.10}General Comments on \Cref {chapter:intro}}{28}{section.1.2.10}
-\contentsline {chapter}{\numberline {3}Testimonies of the Witnesses}{29}{chapter.1.3}
-\contentsline {section}{\numberline {3.1}Three Witnesses}{29}{section.1.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Principles and Tags}{30}{subsection.1.3.1.1}
-\contentsline {subsection}{\numberline {3.1.2}Comments}{30}{subsection.1.3.1.2}
-\contentsline {subsection}{\numberline {3.1.3}Likening}{30}{subsection.1.3.1.3}
-\contentsline {subsection}{\numberline {3.1.4}Additional References}{30}{subsection.1.3.1.4}
-\contentsline {section}{\numberline {3.2}Eight Witnesses}{30}{section.1.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Definitions}{31}{subsection.1.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Principles and Tags}{32}{subsection.1.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Comments}{32}{subsection.1.3.2.3}
-\contentsline {subsection}{\numberline {3.2.4}Likening}{32}{subsection.1.3.2.4}
-\contentsline {subsection}{\numberline {3.2.5}Additional References}{32}{subsection.1.3.2.5}
-\contentsline {section}{\numberline {3.3}Testimony of Joseph Smith}{32}{section.1.3.3}
-\contentsline {subsection}{\numberline {3.3.1}1st paragraph}{32}{subsection.1.3.3.1}
-\contentsline {subsubsection}{\numberline {3.3.1.1}Principles and Tags}{33}{subsubsection.1.3.3.1.1}
-\contentsline {subsubsection}{\numberline {3.3.1.2}Comments}{33}{subsubsection.1.3.3.1.2}
-\contentsline {subsubsection}{\numberline {3.3.1.3}Likening}{33}{subsubsection.1.3.3.1.3}
-\contentsline {subsubsection}{\numberline {3.3.1.4}Additional References}{33}{subsubsection.1.3.3.1.4}
-\contentsline {subsection}{\numberline {3.3.2}2nd paragraph}{33}{subsection.1.3.3.2}
-\contentsline {subsubsection}{\numberline {3.3.2.1}Definitions}{33}{subsubsection.1.3.3.2.1}
-\contentsline {subsubsection}{\numberline {3.3.2.2}Principles and Tags}{33}{subsubsection.1.3.3.2.2}
-\contentsline {subsubsection}{\numberline {3.3.2.3}Comments}{34}{subsubsection.1.3.3.2.3}
-\contentsline {subsubsection}{\numberline {3.3.2.4}Likening}{34}{subsubsection.1.3.3.2.4}
-\contentsline {subsubsection}{\numberline {3.3.2.5}Additional References}{34}{subsubsection.1.3.3.2.5}
-\contentsline {subsection}{\numberline {3.3.3}3rd paragraph}{34}{subsection.1.3.3.3}
-\contentsline {subsubsection}{\numberline {3.3.3.1}Definitions}{34}{subsubsection.1.3.3.3.1}
-\contentsline {subsubsection}{\numberline {3.3.3.2}Principles and Tags}{35}{subsubsection.1.3.3.3.2}
-\contentsline {subsubsection}{\numberline {3.3.3.3}Comments}{35}{subsubsection.1.3.3.3.3}
-\contentsline {subsubsection}{\numberline {3.3.3.4}Likening}{35}{subsubsection.1.3.3.3.4}
-\contentsline {subsubsection}{\numberline {3.3.3.5}Additional References}{35}{subsubsection.1.3.3.3.5}
-\contentsline {subsection}{\numberline {3.3.4}4th Paragraph}{35}{subsection.1.3.3.4}
-\contentsline {subsubsection}{\numberline {3.3.4.1}Definitions}{36}{subsubsection.1.3.3.4.1}
-\contentsline {subsubsection}{\numberline {3.3.4.2}Principles and Tags}{36}{subsubsection.1.3.3.4.2}
-\contentsline {subsubsection}{\numberline {3.3.4.3}Comments}{37}{subsubsection.1.3.3.4.3}
-\contentsline {subsubsection}{\numberline {3.3.4.4}Likening}{37}{subsubsection.1.3.3.4.4}
-\contentsline {subsubsection}{\numberline {3.3.4.5}Additional References}{37}{subsubsection.1.3.3.4.5}
-\contentsline {subsection}{\numberline {3.3.5}5th Paragraph}{37}{subsection.1.3.3.5}
-\contentsline {subsubsection}{\numberline {3.3.5.1}Definitions}{37}{subsubsection.1.3.3.5.1}
-\contentsline {subsubsection}{\numberline {3.3.5.2}Principles and Tags}{38}{subsubsection.1.3.3.5.2}
-\contentsline {subsubsection}{\numberline {3.3.5.3}Comments}{38}{subsubsection.1.3.3.5.3}
-\contentsline {subsubsection}{\numberline {3.3.5.4}Likening}{38}{subsubsection.1.3.3.5.4}
-\contentsline {subsubsection}{\numberline {3.3.5.5}Additional References}{39}{subsubsection.1.3.3.5.5}
-\contentsline {subsection}{\numberline {3.3.6}6th Paragraph}{39}{subsection.1.3.3.6}
-\contentsline {subsubsection}{\numberline {3.3.6.1}Principles and Tags}{39}{subsubsection.1.3.3.6.1}
-\contentsline {subsubsection}{\numberline {3.3.6.2}Comments}{39}{subsubsection.1.3.3.6.2}
-\contentsline {subsubsection}{\numberline {3.3.6.3}Likening}{40}{subsubsection.1.3.3.6.3}
-\contentsline {subsubsection}{\numberline {3.3.6.4}Additional References}{40}{subsubsection.1.3.3.6.4}
-\contentsline {subsection}{\numberline {3.3.7}7th Paragraph}{40}{subsection.1.3.3.7}
-\contentsline {subsubsection}{\numberline {3.3.7.1}Principles and Tags}{40}{subsubsection.1.3.3.7.1}
-\contentsline {subsubsection}{\numberline {3.3.7.2}Comments}{40}{subsubsection.1.3.3.7.2}
-\contentsline {subsubsection}{\numberline {3.3.7.3}Likening}{41}{subsubsection.1.3.3.7.3}
-\contentsline {subsubsection}{\numberline {3.3.7.4}Additional References}{41}{subsubsection.1.3.3.7.4}
-\contentsline {subsection}{\numberline {3.3.8}8th Paragraph}{41}{subsection.1.3.3.8}
-\contentsline {subsubsection}{\numberline {3.3.8.1}Definitions}{41}{subsubsection.1.3.3.8.1}
-\contentsline {subsubsection}{\numberline {3.3.8.2}Principles and Tags}{42}{subsubsection.1.3.3.8.2}
-\contentsline {subsubsection}{\numberline {3.3.8.3}Comments}{42}{subsubsection.1.3.3.8.3}
-\contentsline {subsubsection}{\numberline {3.3.8.4}Likening}{42}{subsubsection.1.3.3.8.4}
-\contentsline {subsubsection}{\numberline {3.3.8.5}Additional References}{42}{subsubsection.1.3.3.8.5}
-\contentsline {subsection}{\numberline {3.3.9}9th Paragraph}{43}{subsection.1.3.3.9}
-\contentsline {subsubsection}{\numberline {3.3.9.1}Principles and Tags}{43}{subsubsection.1.3.3.9.1}
-\contentsline {subsubsection}{\numberline {3.3.9.2}Comments}{43}{subsubsection.1.3.3.9.2}
-\contentsline {subsubsection}{\numberline {3.3.9.3}Likening}{43}{subsubsection.1.3.3.9.3}
-\contentsline {subsubsection}{\numberline {3.3.9.4}Additional References}{43}{subsubsection.1.3.3.9.4}
-\contentsline {subsection}{\numberline {3.3.10}10th Paragraph}{44}{subsection.1.3.3.10}
-\contentsline {subsubsection}{\numberline {3.3.10.1}Definitions}{44}{subsubsection.1.3.3.10.1}
-\contentsline {subsubsection}{\numberline {3.3.10.2}Principles and Tags}{44}{subsubsection.1.3.3.10.2}
-\contentsline {subsubsection}{\numberline {3.3.10.3}Comments}{44}{subsubsection.1.3.3.10.3}
-\contentsline {subsubsection}{\numberline {3.3.10.4}Likening}{44}{subsubsection.1.3.3.10.4}
-\contentsline {subsubsection}{\numberline {3.3.10.5}Additional References}{45}{subsubsection.1.3.3.10.5}
-\contentsline {subsection}{\numberline {3.3.11}11th Paragraph}{45}{subsection.1.3.3.11}
-\contentsline {subsubsection}{\numberline {3.3.11.1}Definitions}{45}{subsubsection.1.3.3.11.1}
-\contentsline {subsubsection}{\numberline {3.3.11.2}Principles and Tags}{46}{subsubsection.1.3.3.11.2}
-\contentsline {subsubsection}{\numberline {3.3.11.3}Comments}{46}{subsubsection.1.3.3.11.3}
-\contentsline {subsubsection}{\numberline {3.3.11.4}Likening}{46}{subsubsection.1.3.3.11.4}
-\contentsline {subsubsection}{\numberline {3.3.11.5}Additional References}{46}{subsubsection.1.3.3.11.5}
-\contentsline {subsection}{\numberline {3.3.12}12th Paragraph}{46}{subsection.1.3.3.12}
-\contentsline {subsubsection}{\numberline {3.3.12.1}Definitions}{47}{subsubsection.1.3.3.12.1}
-\contentsline {subsubsection}{\numberline {3.3.12.2}Principles and Tags}{48}{subsubsection.1.3.3.12.2}
-\contentsline {subsubsection}{\numberline {3.3.12.3}Comments}{48}{subsubsection.1.3.3.12.3}
-\contentsline {subsubsection}{\numberline {3.3.12.4}Likening}{48}{subsubsection.1.3.3.12.4}
-\contentsline {subsubsection}{\numberline {3.3.12.5}Additional References}{48}{subsubsection.1.3.3.12.5}
-\contentsline {subsection}{\numberline {3.3.13}13th Paragraph}{48}{subsection.1.3.3.13}
-\contentsline {subsubsection}{\numberline {3.3.13.1}Definitions}{49}{subsubsection.1.3.3.13.1}
-\contentsline {subsubsection}{\numberline {3.3.13.2}Principles and Tags}{49}{subsubsection.1.3.3.13.2}
-\contentsline {subsubsection}{\numberline {3.3.13.3}Comments}{49}{subsubsection.1.3.3.13.3}
-\contentsline {subsubsection}{\numberline {3.3.13.4}Likening}{50}{subsubsection.1.3.3.13.4}
-\contentsline {subsubsection}{\numberline {3.3.13.5}Additional References}{50}{subsubsection.1.3.3.13.5}
-\contentsline {subsection}{\numberline {3.3.14}14th Paragraph}{50}{subsection.1.3.3.14}
-\contentsline {subsubsection}{\numberline {3.3.14.1}Principles and Tags}{50}{subsubsection.1.3.3.14.1}
-\contentsline {subsubsection}{\numberline {3.3.14.2}Comments}{51}{subsubsection.1.3.3.14.2}
-\contentsline {subsubsection}{\numberline {3.3.14.3}Likening}{51}{subsubsection.1.3.3.14.3}
-\contentsline {subsubsection}{\numberline {3.3.14.4}Additional References}{51}{subsubsection.1.3.3.14.4}
-\contentsline {subsection}{\numberline {3.3.15}15th Paragraph}{51}{subsection.1.3.3.15}
-\contentsline {subsubsection}{\numberline {3.3.15.1}Principles and Tags}{52}{subsubsection.1.3.3.15.1}
-\contentsline {subsubsection}{\numberline {3.3.15.2}Comments}{52}{subsubsection.1.3.3.15.2}
-\contentsline {subsubsection}{\numberline {3.3.15.3}Likening}{52}{subsubsection.1.3.3.15.3}
-\contentsline {subsubsection}{\numberline {3.3.15.4}Additional References}{52}{subsubsection.1.3.3.15.4}
-\contentsline {subsection}{\numberline {3.3.16}16th Paragraph}{52}{subsection.1.3.3.16}
-\contentsline {subsubsection}{\numberline {3.3.16.1}Principles and Tags}{53}{subsubsection.1.3.3.16.1}
-\contentsline {subsubsection}{\numberline {3.3.16.2}Comments}{53}{subsubsection.1.3.3.16.2}
-\contentsline {subsubsection}{\numberline {3.3.16.3}Likening}{53}{subsubsection.1.3.3.16.3}
-\contentsline {subsubsection}{\numberline {3.3.16.4}Additional References}{53}{subsubsection.1.3.3.16.4}
-\contentsline {subsection}{\numberline {3.3.17}17th Paragraph}{53}{subsection.1.3.3.17}
-\contentsline {subsubsection}{\numberline {3.3.17.1}Definitions}{53}{subsubsection.1.3.3.17.1}
-\contentsline {subsubsection}{\numberline {3.3.17.2}Principles and Tags}{54}{subsubsection.1.3.3.17.2}
-\contentsline {subsubsection}{\numberline {3.3.17.3}Comments}{54}{subsubsection.1.3.3.17.3}
-\contentsline {subsubsection}{\numberline {3.3.17.4}Likening}{54}{subsubsection.1.3.3.17.4}
-\contentsline {subsubsection}{\numberline {3.3.17.5}Additional References}{54}{subsubsection.1.3.3.17.5}
-\contentsline {subsection}{\numberline {3.3.18}18th Paragraph}{54}{subsection.1.3.3.18}
-\contentsline {subsubsection}{\numberline {3.3.18.1}Definitions}{55}{subsubsection.1.3.3.18.1}
-\contentsline {subsubsection}{\numberline {3.3.18.2}Principles and Tags}{55}{subsubsection.1.3.3.18.2}
-\contentsline {subsubsection}{\numberline {3.3.18.3}Comments}{55}{subsubsection.1.3.3.18.3}
-\contentsline {subsubsection}{\numberline {3.3.18.4}Likening}{55}{subsubsection.1.3.3.18.4}
-\contentsline {subsubsection}{\numberline {3.3.18.5}Additional References}{56}{subsubsection.1.3.3.18.5}
-\contentsline {subsection}{\numberline {3.3.19}19th Paragraph}{56}{subsection.1.3.3.19}
-\contentsline {subsubsection}{\numberline {3.3.19.1}Definitions}{56}{subsubsection.1.3.3.19.1}
-\contentsline {subsubsection}{\numberline {3.3.19.2}Principles and Tags}{56}{subsubsection.1.3.3.19.2}
-\contentsline {subsubsection}{\numberline {3.3.19.3}Comments}{56}{subsubsection.1.3.3.19.3}
-\contentsline {subsubsection}{\numberline {3.3.19.4}Likening}{57}{subsubsection.1.3.3.19.4}
-\contentsline {subsubsection}{\numberline {3.3.19.5}Additional References}{57}{subsubsection.1.3.3.19.5}
-\contentsline {subsection}{\numberline {3.3.20}20th Paragraph}{57}{subsection.1.3.3.20}
-\contentsline {subsubsection}{\numberline {3.3.20.1}Principles and Tags}{57}{subsubsection.1.3.3.20.1}
-\contentsline {subsubsection}{\numberline {3.3.20.2}Comments}{57}{subsubsection.1.3.3.20.2}
-\contentsline {subsubsection}{\numberline {3.3.20.3}Likening}{58}{subsubsection.1.3.3.20.3}
-\contentsline {subsubsection}{\numberline {3.3.20.4}Additional References}{58}{subsubsection.1.3.3.20.4}
-\contentsline {subsection}{\numberline {3.3.21}21st Paragraph}{58}{subsection.1.3.3.21}
-\contentsline {subsubsection}{\numberline {3.3.21.1}Principles and Tags}{58}{subsubsection.1.3.3.21.1}
-\contentsline {subsubsection}{\numberline {3.3.21.2}Comments}{58}{subsubsection.1.3.3.21.2}
-\contentsline {subsubsection}{\numberline {3.3.21.3}Likening}{58}{subsubsection.1.3.3.21.3}
-\contentsline {subsubsection}{\numberline {3.3.21.4}Additional References}{59}{subsubsection.1.3.3.21.4}
-\contentsline {subsection}{\numberline {3.3.22}22nd Paragraph}{59}{subsection.1.3.3.22}
-\contentsline {subsubsection}{\numberline {3.3.22.1}Definitions}{59}{subsubsection.1.3.3.22.1}
-\contentsline {subsubsection}{\numberline {3.3.22.2}Principles and Tags}{60}{subsubsection.1.3.3.22.2}
-\contentsline {subsubsection}{\numberline {3.3.22.3}Comments}{60}{subsubsection.1.3.3.22.3}
-\contentsline {subsubsection}{\numberline {3.3.22.4}Likening}{61}{subsubsection.1.3.3.22.4}
-\contentsline {subsubsection}{\numberline {3.3.22.5}Additional References}{61}{subsubsection.1.3.3.22.5}
-\contentsline {subsection}{\numberline {3.3.23}23rd Paragraph}{61}{subsection.1.3.3.23}
-\contentsline {subsubsection}{\numberline {3.3.23.1}Definitions}{61}{subsubsection.1.3.3.23.1}
-\contentsline {subsubsection}{\numberline {3.3.23.2}Principles and Tags}{62}{subsubsection.1.3.3.23.2}
-\contentsline {subsubsection}{\numberline {3.3.23.3}Comments}{62}{subsubsection.1.3.3.23.3}
-\contentsline {subsubsection}{\numberline {3.3.23.4}Likening}{62}{subsubsection.1.3.3.23.4}
-\contentsline {subsubsection}{\numberline {3.3.23.5}Additional References}{62}{subsubsection.1.3.3.23.5}
-\contentsline {subsection}{\numberline {3.3.24}24th and 25th Paragraphs}{62}{subsection.1.3.3.24}
-\contentsline {subsubsection}{\numberline {3.3.24.1}Definitions}{63}{subsubsection.1.3.3.24.1}
-\contentsline {subsubsection}{\numberline {3.3.24.2}Principles and Tags}{63}{subsubsection.1.3.3.24.2}
-\contentsline {subsubsection}{\numberline {3.3.24.3}Comments}{63}{subsubsection.1.3.3.24.3}
-\contentsline {subsubsection}{\numberline {3.3.24.4}Likening}{63}{subsubsection.1.3.3.24.4}
-\contentsline {subsubsection}{\numberline {3.3.24.5}Additional References}{63}{subsubsection.1.3.3.24.5}
-\contentsline {section}{\numberline {3.4}General Comments on \Cref {chapter:testimonies}}{63}{section.1.3.4}
-\contentsline {part}{II\hspace {1em}The First Book of Nephi}{65}{part.2}
-\contentsline {section}{\numberline {0.1}Introduction}{66}{section.2.0.1}
-\contentsline {subsection}{\numberline {0.1.1}Definitions}{66}{subsection.2.0.1.1}
-\contentsline {subsection}{\numberline {0.1.2}Principles and Tags}{67}{subsection.2.0.1.2}
-\contentsline {subsection}{\numberline {0.1.3}Comments}{67}{subsection.2.0.1.3}
-\contentsline {subsection}{\numberline {0.1.4}Likening}{67}{subsection.2.0.1.4}
-\contentsline {subsection}{\numberline {0.1.5}Additional References}{67}{subsection.2.0.1.5}
-\contentsline {chapter}{\numberline {1}1 Nephi 1}{68}{chapter.2.1}
-\contentsline {section}{\numberline {1.1}Verse 1}{68}{section.2.1.1}
-\contentsline {subsection}{\numberline {1.1.1}Definitions}{68}{subsection.2.1.1.1}
-\contentsline {subsection}{\numberline {1.1.2}Principles and Tags}{68}{subsection.2.1.1.2}
-\contentsline {subsection}{\numberline {1.1.3}Comments}{69}{subsection.2.1.1.3}
-\contentsline {subsection}{\numberline {1.1.4}Likening}{69}{subsection.2.1.1.4}
-\contentsline {subsection}{\numberline {1.1.5}Additional References}{70}{subsection.2.1.1.5}
-\contentsline {section}{\numberline {1.2}Verse 2}{70}{section.2.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Principles and Tags}{70}{subsection.2.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}Comments}{70}{subsection.2.1.2.2}
-\contentsline {subsection}{\numberline {1.2.3}Likening}{70}{subsection.2.1.2.3}
-\contentsline {subsection}{\numberline {1.2.4}Additional References}{71}{subsection.2.1.2.4}
-\contentsline {section}{\numberline {1.3}Verse 3}{71}{section.2.1.3}
-\contentsline {subsection}{\numberline {1.3.1}Principles and Tags}{71}{subsection.2.1.3.1}
-\contentsline {subsection}{\numberline {1.3.2}Comments}{71}{subsection.2.1.3.2}
-\contentsline {subsection}{\numberline {1.3.3}Likening}{71}{subsection.2.1.3.3}
-\contentsline {subsection}{\numberline {1.3.4}Additional References}{72}{subsection.2.1.3.4}
-\contentsline {section}{\numberline {1.4}Verse 4}{72}{section.2.1.4}
-\contentsline {subsection}{\numberline {1.4.1}Definitions}{72}{subsection.2.1.4.1}
-\contentsline {subsection}{\numberline {1.4.2}Principles and Tags}{72}{subsection.2.1.4.2}
-\contentsline {subsection}{\numberline {1.4.3}Comments}{72}{subsection.2.1.4.3}
-\contentsline {subsection}{\numberline {1.4.4}Likening}{73}{subsection.2.1.4.4}
-\contentsline {subsection}{\numberline {1.4.5}Additional References}{73}{subsection.2.1.4.5}
-\contentsline {section}{\numberline {1.5}Verse 5}{73}{section.2.1.5}
-\contentsline {subsection}{\numberline {1.5.1}Definitions}{73}{subsection.2.1.5.1}
-\contentsline {subsection}{\numberline {1.5.2}Principles and Tags}{73}{subsection.2.1.5.2}
-\contentsline {subsection}{\numberline {1.5.3}Comments}{74}{subsection.2.1.5.3}
-\contentsline {subsection}{\numberline {1.5.4}Likening}{74}{subsection.2.1.5.4}
-\contentsline {subsection}{\numberline {1.5.5}Additional References}{75}{subsection.2.1.5.5}
-\contentsline {section}{\numberline {1.6}Verse 6}{75}{section.2.1.6}
-\contentsline {subsection}{\numberline {1.6.1}Definitions}{75}{subsection.2.1.6.1}
-\contentsline {subsection}{\numberline {1.6.2}Principles and Tags}{76}{subsection.2.1.6.2}
-\contentsline {subsection}{\numberline {1.6.3}Comments}{76}{subsection.2.1.6.3}
-\contentsline {subsection}{\numberline {1.6.4}Likening}{76}{subsection.2.1.6.4}
-\contentsline {subsection}{\numberline {1.6.5}Additional References}{76}{subsection.2.1.6.5}
-\contentsline {section}{\numberline {1.7}Verse 7}{77}{section.2.1.7}
-\contentsline {subsection}{\numberline {1.7.1}Definitions}{77}{subsection.2.1.7.1}
-\contentsline {subsection}{\numberline {1.7.2}Principles and Tags}{77}{subsection.2.1.7.2}
-\contentsline {subsection}{\numberline {1.7.3}Comments}{78}{subsection.2.1.7.3}
-\contentsline {subsection}{\numberline {1.7.4}Likening}{78}{subsection.2.1.7.4}
-\contentsline {subsection}{\numberline {1.7.5}Additional References}{78}{subsection.2.1.7.5}
+\contentsline {section}{\numberline {1.5}General Comments on \Cref {chapter:titlePage}}{14}{section.1.1.5}
+\contentsline {chapter}{\numberline {2}Introduction}{15}{chapter.1.2}
+\contentsline {section}{\numberline {2.1}1st Paragraph}{15}{section.1.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Definitions}{15}{subsection.1.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Principles and Tags}{16}{subsection.1.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Comments}{16}{subsection.1.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Likening}{16}{subsection.1.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}Additional References}{17}{subsection.1.2.1.5}
+\contentsline {section}{\numberline {2.2}2nd Paragraph}{17}{section.1.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Definitions}{17}{subsection.1.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Principles and Tags}{17}{subsection.1.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Comments}{17}{subsection.1.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Likening}{18}{subsection.1.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Additional References}{18}{subsection.1.2.2.5}
+\contentsline {section}{\numberline {2.3}3rd Paragraph}{18}{section.1.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Definitions}{19}{subsection.1.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Principles and Tags}{19}{subsection.1.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Comments}{19}{subsection.1.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Likening}{20}{subsection.1.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}Additional References}{20}{subsection.1.2.3.5}
+\contentsline {section}{\numberline {2.4}4th Paragraph}{20}{section.1.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Definitions}{20}{subsection.1.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Principles and Tags}{20}{subsection.1.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Comments}{20}{subsection.1.2.4.3}
+\contentsline {subsection}{\numberline {2.4.4}Likening}{21}{subsection.1.2.4.4}
+\contentsline {subsection}{\numberline {2.4.5}Additional References}{21}{subsection.1.2.4.5}
+\contentsline {section}{\numberline {2.5}5th Paragraph}{22}{section.1.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Definitions}{22}{subsection.1.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Principles and Tags}{22}{subsection.1.2.5.2}
+\contentsline {subsection}{\numberline {2.5.3}Comments}{22}{subsection.1.2.5.3}
+\contentsline {subsection}{\numberline {2.5.4}Likening}{22}{subsection.1.2.5.4}
+\contentsline {subsection}{\numberline {2.5.5}Additional References}{22}{subsection.1.2.5.5}
+\contentsline {section}{\numberline {2.6}6th Paragraph}{23}{section.1.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Definitions}{23}{subsection.1.2.6.1}
+\contentsline {subsection}{\numberline {2.6.2}Principles and Tags}{23}{subsection.1.2.6.2}
+\contentsline {subsection}{\numberline {2.6.3}Comments}{24}{subsection.1.2.6.3}
+\contentsline {subsection}{\numberline {2.6.4}Likening}{24}{subsection.1.2.6.4}
+\contentsline {subsection}{\numberline {2.6.5}Additional References}{24}{subsection.1.2.6.5}
+\contentsline {section}{\numberline {2.7}7th Paragraph}{24}{section.1.2.7}
+\contentsline {subsection}{\numberline {2.7.1}Definitions}{24}{subsection.1.2.7.1}
+\contentsline {subsection}{\numberline {2.7.2}Principles and Tags}{25}{subsection.1.2.7.2}
+\contentsline {subsection}{\numberline {2.7.3}Comments}{25}{subsection.1.2.7.3}
+\contentsline {subsection}{\numberline {2.7.4}Likening}{25}{subsection.1.2.7.4}
+\contentsline {subsection}{\numberline {2.7.5}Additional References}{26}{subsection.1.2.7.5}
+\contentsline {section}{\numberline {2.8}8th Paragraph}{26}{section.1.2.8}
+\contentsline {subsection}{\numberline {2.8.1}Definitions}{26}{subsection.1.2.8.1}
+\contentsline {subsection}{\numberline {2.8.2}Principles and Tags}{27}{subsection.1.2.8.2}
+\contentsline {subsection}{\numberline {2.8.3}Comments}{27}{subsection.1.2.8.3}
+\contentsline {subsection}{\numberline {2.8.4}Likening}{27}{subsection.1.2.8.4}
+\contentsline {subsection}{\numberline {2.8.5}Additional References}{27}{subsection.1.2.8.5}
+\contentsline {section}{\numberline {2.9}9th Paragraph}{27}{section.1.2.9}
+\contentsline {subsection}{\numberline {2.9.1}Definitions}{28}{subsection.1.2.9.1}
+\contentsline {subsection}{\numberline {2.9.2}Principles and Tags}{28}{subsection.1.2.9.2}
+\contentsline {subsection}{\numberline {2.9.3}Comments}{28}{subsection.1.2.9.3}
+\contentsline {subsection}{\numberline {2.9.4}Likening}{29}{subsection.1.2.9.4}
+\contentsline {subsection}{\numberline {2.9.5}Additional References}{29}{subsection.1.2.9.5}
+\contentsline {section}{\numberline {2.10}General Comments on \Cref {chapter:intro}}{29}{section.1.2.10}
+\contentsline {chapter}{\numberline {3}Testimonies of the Witnesses}{30}{chapter.1.3}
+\contentsline {section}{\numberline {3.1}Three Witnesses}{30}{section.1.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Principles and Tags}{31}{subsection.1.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Comments}{31}{subsection.1.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Likening}{31}{subsection.1.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}Additional References}{31}{subsection.1.3.1.4}
+\contentsline {section}{\numberline {3.2}Eight Witnesses}{31}{section.1.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Definitions}{32}{subsection.1.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Principles and Tags}{33}{subsection.1.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Comments}{33}{subsection.1.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Likening}{33}{subsection.1.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Additional References}{33}{subsection.1.3.2.5}
+\contentsline {section}{\numberline {3.3}Testimony of Joseph Smith}{33}{section.1.3.3}
+\contentsline {subsection}{\numberline {3.3.1}1st paragraph}{33}{subsection.1.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.1.1}Principles and Tags}{34}{subsubsection.1.3.3.1.1}
+\contentsline {subsubsection}{\numberline {3.3.1.2}Comments}{34}{subsubsection.1.3.3.1.2}
+\contentsline {subsubsection}{\numberline {3.3.1.3}Likening}{34}{subsubsection.1.3.3.1.3}
+\contentsline {subsubsection}{\numberline {3.3.1.4}Additional References}{34}{subsubsection.1.3.3.1.4}
+\contentsline {subsection}{\numberline {3.3.2}2nd paragraph}{34}{subsection.1.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.2.1}Definitions}{34}{subsubsection.1.3.3.2.1}
+\contentsline {subsubsection}{\numberline {3.3.2.2}Principles and Tags}{34}{subsubsection.1.3.3.2.2}
+\contentsline {subsubsection}{\numberline {3.3.2.3}Comments}{35}{subsubsection.1.3.3.2.3}
+\contentsline {subsubsection}{\numberline {3.3.2.4}Likening}{35}{subsubsection.1.3.3.2.4}
+\contentsline {subsubsection}{\numberline {3.3.2.5}Additional References}{35}{subsubsection.1.3.3.2.5}
+\contentsline {subsection}{\numberline {3.3.3}3rd paragraph}{35}{subsection.1.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.3.1}Definitions}{35}{subsubsection.1.3.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.3.2}Principles and Tags}{36}{subsubsection.1.3.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3.3}Comments}{36}{subsubsection.1.3.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.3.4}Likening}{36}{subsubsection.1.3.3.3.4}
+\contentsline {subsubsection}{\numberline {3.3.3.5}Additional References}{36}{subsubsection.1.3.3.3.5}
+\contentsline {subsection}{\numberline {3.3.4}4th Paragraph}{36}{subsection.1.3.3.4}
+\contentsline {subsubsection}{\numberline {3.3.4.1}Definitions}{37}{subsubsection.1.3.3.4.1}
+\contentsline {subsubsection}{\numberline {3.3.4.2}Principles and Tags}{37}{subsubsection.1.3.3.4.2}
+\contentsline {subsubsection}{\numberline {3.3.4.3}Comments}{38}{subsubsection.1.3.3.4.3}
+\contentsline {subsubsection}{\numberline {3.3.4.4}Likening}{38}{subsubsection.1.3.3.4.4}
+\contentsline {subsubsection}{\numberline {3.3.4.5}Additional References}{38}{subsubsection.1.3.3.4.5}
+\contentsline {subsection}{\numberline {3.3.5}5th Paragraph}{38}{subsection.1.3.3.5}
+\contentsline {subsubsection}{\numberline {3.3.5.1}Definitions}{38}{subsubsection.1.3.3.5.1}
+\contentsline {subsubsection}{\numberline {3.3.5.2}Principles and Tags}{39}{subsubsection.1.3.3.5.2}
+\contentsline {subsubsection}{\numberline {3.3.5.3}Comments}{39}{subsubsection.1.3.3.5.3}
+\contentsline {subsubsection}{\numberline {3.3.5.4}Likening}{39}{subsubsection.1.3.3.5.4}
+\contentsline {subsubsection}{\numberline {3.3.5.5}Additional References}{40}{subsubsection.1.3.3.5.5}
+\contentsline {subsection}{\numberline {3.3.6}6th Paragraph}{40}{subsection.1.3.3.6}
+\contentsline {subsubsection}{\numberline {3.3.6.1}Principles and Tags}{40}{subsubsection.1.3.3.6.1}
+\contentsline {subsubsection}{\numberline {3.3.6.2}Comments}{40}{subsubsection.1.3.3.6.2}
+\contentsline {subsubsection}{\numberline {3.3.6.3}Likening}{41}{subsubsection.1.3.3.6.3}
+\contentsline {subsubsection}{\numberline {3.3.6.4}Additional References}{41}{subsubsection.1.3.3.6.4}
+\contentsline {subsection}{\numberline {3.3.7}7th Paragraph}{41}{subsection.1.3.3.7}
+\contentsline {subsubsection}{\numberline {3.3.7.1}Principles and Tags}{41}{subsubsection.1.3.3.7.1}
+\contentsline {subsubsection}{\numberline {3.3.7.2}Comments}{41}{subsubsection.1.3.3.7.2}
+\contentsline {subsubsection}{\numberline {3.3.7.3}Likening}{42}{subsubsection.1.3.3.7.3}
+\contentsline {subsubsection}{\numberline {3.3.7.4}Additional References}{42}{subsubsection.1.3.3.7.4}
+\contentsline {subsection}{\numberline {3.3.8}8th Paragraph}{42}{subsection.1.3.3.8}
+\contentsline {subsubsection}{\numberline {3.3.8.1}Definitions}{42}{subsubsection.1.3.3.8.1}
+\contentsline {subsubsection}{\numberline {3.3.8.2}Principles and Tags}{43}{subsubsection.1.3.3.8.2}
+\contentsline {subsubsection}{\numberline {3.3.8.3}Comments}{43}{subsubsection.1.3.3.8.3}
+\contentsline {subsubsection}{\numberline {3.3.8.4}Likening}{43}{subsubsection.1.3.3.8.4}
+\contentsline {subsubsection}{\numberline {3.3.8.5}Additional References}{43}{subsubsection.1.3.3.8.5}
+\contentsline {subsection}{\numberline {3.3.9}9th Paragraph}{44}{subsection.1.3.3.9}
+\contentsline {subsubsection}{\numberline {3.3.9.1}Principles and Tags}{44}{subsubsection.1.3.3.9.1}
+\contentsline {subsubsection}{\numberline {3.3.9.2}Comments}{44}{subsubsection.1.3.3.9.2}
+\contentsline {subsubsection}{\numberline {3.3.9.3}Likening}{44}{subsubsection.1.3.3.9.3}
+\contentsline {subsubsection}{\numberline {3.3.9.4}Additional References}{44}{subsubsection.1.3.3.9.4}
+\contentsline {subsection}{\numberline {3.3.10}10th Paragraph}{45}{subsection.1.3.3.10}
+\contentsline {subsubsection}{\numberline {3.3.10.1}Definitions}{45}{subsubsection.1.3.3.10.1}
+\contentsline {subsubsection}{\numberline {3.3.10.2}Principles and Tags}{45}{subsubsection.1.3.3.10.2}
+\contentsline {subsubsection}{\numberline {3.3.10.3}Comments}{45}{subsubsection.1.3.3.10.3}
+\contentsline {subsubsection}{\numberline {3.3.10.4}Likening}{45}{subsubsection.1.3.3.10.4}
+\contentsline {subsubsection}{\numberline {3.3.10.5}Additional References}{46}{subsubsection.1.3.3.10.5}
+\contentsline {subsection}{\numberline {3.3.11}11th Paragraph}{46}{subsection.1.3.3.11}
+\contentsline {subsubsection}{\numberline {3.3.11.1}Definitions}{46}{subsubsection.1.3.3.11.1}
+\contentsline {subsubsection}{\numberline {3.3.11.2}Principles and Tags}{47}{subsubsection.1.3.3.11.2}
+\contentsline {subsubsection}{\numberline {3.3.11.3}Comments}{47}{subsubsection.1.3.3.11.3}
+\contentsline {subsubsection}{\numberline {3.3.11.4}Likening}{47}{subsubsection.1.3.3.11.4}
+\contentsline {subsubsection}{\numberline {3.3.11.5}Additional References}{47}{subsubsection.1.3.3.11.5}
+\contentsline {subsection}{\numberline {3.3.12}12th Paragraph}{47}{subsection.1.3.3.12}
+\contentsline {subsubsection}{\numberline {3.3.12.1}Definitions}{48}{subsubsection.1.3.3.12.1}
+\contentsline {subsubsection}{\numberline {3.3.12.2}Principles and Tags}{49}{subsubsection.1.3.3.12.2}
+\contentsline {subsubsection}{\numberline {3.3.12.3}Comments}{49}{subsubsection.1.3.3.12.3}
+\contentsline {subsubsection}{\numberline {3.3.12.4}Likening}{49}{subsubsection.1.3.3.12.4}
+\contentsline {subsubsection}{\numberline {3.3.12.5}Additional References}{49}{subsubsection.1.3.3.12.5}
+\contentsline {subsection}{\numberline {3.3.13}13th Paragraph}{49}{subsection.1.3.3.13}
+\contentsline {subsubsection}{\numberline {3.3.13.1}Definitions}{50}{subsubsection.1.3.3.13.1}
+\contentsline {subsubsection}{\numberline {3.3.13.2}Principles and Tags}{50}{subsubsection.1.3.3.13.2}
+\contentsline {subsubsection}{\numberline {3.3.13.3}Comments}{50}{subsubsection.1.3.3.13.3}
+\contentsline {subsubsection}{\numberline {3.3.13.4}Likening}{51}{subsubsection.1.3.3.13.4}
+\contentsline {subsubsection}{\numberline {3.3.13.5}Additional References}{51}{subsubsection.1.3.3.13.5}
+\contentsline {subsection}{\numberline {3.3.14}14th Paragraph}{51}{subsection.1.3.3.14}
+\contentsline {subsubsection}{\numberline {3.3.14.1}Principles and Tags}{51}{subsubsection.1.3.3.14.1}
+\contentsline {subsubsection}{\numberline {3.3.14.2}Comments}{52}{subsubsection.1.3.3.14.2}
+\contentsline {subsubsection}{\numberline {3.3.14.3}Likening}{52}{subsubsection.1.3.3.14.3}
+\contentsline {subsubsection}{\numberline {3.3.14.4}Additional References}{52}{subsubsection.1.3.3.14.4}
+\contentsline {subsection}{\numberline {3.3.15}15th Paragraph}{52}{subsection.1.3.3.15}
+\contentsline {subsubsection}{\numberline {3.3.15.1}Principles and Tags}{53}{subsubsection.1.3.3.15.1}
+\contentsline {subsubsection}{\numberline {3.3.15.2}Comments}{53}{subsubsection.1.3.3.15.2}
+\contentsline {subsubsection}{\numberline {3.3.15.3}Likening}{53}{subsubsection.1.3.3.15.3}
+\contentsline {subsubsection}{\numberline {3.3.15.4}Additional References}{53}{subsubsection.1.3.3.15.4}
+\contentsline {subsection}{\numberline {3.3.16}16th Paragraph}{53}{subsection.1.3.3.16}
+\contentsline {subsubsection}{\numberline {3.3.16.1}Principles and Tags}{54}{subsubsection.1.3.3.16.1}
+\contentsline {subsubsection}{\numberline {3.3.16.2}Comments}{54}{subsubsection.1.3.3.16.2}
+\contentsline {subsubsection}{\numberline {3.3.16.3}Likening}{54}{subsubsection.1.3.3.16.3}
+\contentsline {subsubsection}{\numberline {3.3.16.4}Additional References}{54}{subsubsection.1.3.3.16.4}
+\contentsline {subsection}{\numberline {3.3.17}17th Paragraph}{54}{subsection.1.3.3.17}
+\contentsline {subsubsection}{\numberline {3.3.17.1}Definitions}{54}{subsubsection.1.3.3.17.1}
+\contentsline {subsubsection}{\numberline {3.3.17.2}Principles and Tags}{55}{subsubsection.1.3.3.17.2}
+\contentsline {subsubsection}{\numberline {3.3.17.3}Comments}{55}{subsubsection.1.3.3.17.3}
+\contentsline {subsubsection}{\numberline {3.3.17.4}Likening}{55}{subsubsection.1.3.3.17.4}
+\contentsline {subsubsection}{\numberline {3.3.17.5}Additional References}{55}{subsubsection.1.3.3.17.5}
+\contentsline {subsection}{\numberline {3.3.18}18th Paragraph}{55}{subsection.1.3.3.18}
+\contentsline {subsubsection}{\numberline {3.3.18.1}Definitions}{56}{subsubsection.1.3.3.18.1}
+\contentsline {subsubsection}{\numberline {3.3.18.2}Principles and Tags}{56}{subsubsection.1.3.3.18.2}
+\contentsline {subsubsection}{\numberline {3.3.18.3}Comments}{56}{subsubsection.1.3.3.18.3}
+\contentsline {subsubsection}{\numberline {3.3.18.4}Likening}{56}{subsubsection.1.3.3.18.4}
+\contentsline {subsubsection}{\numberline {3.3.18.5}Additional References}{57}{subsubsection.1.3.3.18.5}
+\contentsline {subsection}{\numberline {3.3.19}19th Paragraph}{57}{subsection.1.3.3.19}
+\contentsline {subsubsection}{\numberline {3.3.19.1}Definitions}{57}{subsubsection.1.3.3.19.1}
+\contentsline {subsubsection}{\numberline {3.3.19.2}Principles and Tags}{57}{subsubsection.1.3.3.19.2}
+\contentsline {subsubsection}{\numberline {3.3.19.3}Comments}{57}{subsubsection.1.3.3.19.3}
+\contentsline {subsubsection}{\numberline {3.3.19.4}Likening}{58}{subsubsection.1.3.3.19.4}
+\contentsline {subsubsection}{\numberline {3.3.19.5}Additional References}{58}{subsubsection.1.3.3.19.5}
+\contentsline {subsection}{\numberline {3.3.20}20th Paragraph}{58}{subsection.1.3.3.20}
+\contentsline {subsubsection}{\numberline {3.3.20.1}Principles and Tags}{58}{subsubsection.1.3.3.20.1}
+\contentsline {subsubsection}{\numberline {3.3.20.2}Comments}{58}{subsubsection.1.3.3.20.2}
+\contentsline {subsubsection}{\numberline {3.3.20.3}Likening}{59}{subsubsection.1.3.3.20.3}
+\contentsline {subsubsection}{\numberline {3.3.20.4}Additional References}{59}{subsubsection.1.3.3.20.4}
+\contentsline {subsection}{\numberline {3.3.21}21st Paragraph}{59}{subsection.1.3.3.21}
+\contentsline {subsubsection}{\numberline {3.3.21.1}Principles and Tags}{59}{subsubsection.1.3.3.21.1}
+\contentsline {subsubsection}{\numberline {3.3.21.2}Comments}{59}{subsubsection.1.3.3.21.2}
+\contentsline {subsubsection}{\numberline {3.3.21.3}Likening}{59}{subsubsection.1.3.3.21.3}
+\contentsline {subsubsection}{\numberline {3.3.21.4}Additional References}{60}{subsubsection.1.3.3.21.4}
+\contentsline {subsection}{\numberline {3.3.22}22nd Paragraph}{60}{subsection.1.3.3.22}
+\contentsline {subsubsection}{\numberline {3.3.22.1}Definitions}{60}{subsubsection.1.3.3.22.1}
+\contentsline {subsubsection}{\numberline {3.3.22.2}Principles and Tags}{61}{subsubsection.1.3.3.22.2}
+\contentsline {subsubsection}{\numberline {3.3.22.3}Comments}{61}{subsubsection.1.3.3.22.3}
+\contentsline {subsubsection}{\numberline {3.3.22.4}Likening}{62}{subsubsection.1.3.3.22.4}
+\contentsline {subsubsection}{\numberline {3.3.22.5}Additional References}{62}{subsubsection.1.3.3.22.5}
+\contentsline {subsection}{\numberline {3.3.23}23rd Paragraph}{62}{subsection.1.3.3.23}
+\contentsline {subsubsection}{\numberline {3.3.23.1}Definitions}{62}{subsubsection.1.3.3.23.1}
+\contentsline {subsubsection}{\numberline {3.3.23.2}Principles and Tags}{63}{subsubsection.1.3.3.23.2}
+\contentsline {subsubsection}{\numberline {3.3.23.3}Comments}{63}{subsubsection.1.3.3.23.3}
+\contentsline {subsubsection}{\numberline {3.3.23.4}Likening}{63}{subsubsection.1.3.3.23.4}
+\contentsline {subsubsection}{\numberline {3.3.23.5}Additional References}{63}{subsubsection.1.3.3.23.5}
+\contentsline {subsection}{\numberline {3.3.24}24th and 25th Paragraphs}{63}{subsection.1.3.3.24}
+\contentsline {subsubsection}{\numberline {3.3.24.1}Definitions}{64}{subsubsection.1.3.3.24.1}
+\contentsline {subsubsection}{\numberline {3.3.24.2}Principles and Tags}{64}{subsubsection.1.3.3.24.2}
+\contentsline {subsubsection}{\numberline {3.3.24.3}Comments}{64}{subsubsection.1.3.3.24.3}
+\contentsline {subsubsection}{\numberline {3.3.24.4}Likening}{64}{subsubsection.1.3.3.24.4}
+\contentsline {subsubsection}{\numberline {3.3.24.5}Additional References}{64}{subsubsection.1.3.3.24.5}
+\contentsline {section}{\numberline {3.4}General Comments on \Cref {chapter:testimonies}}{64}{section.1.3.4}
+\contentsline {part}{II\hspace {1em}The First Book of Nephi}{66}{part.2}
+\contentsline {section}{\numberline {0.1}Introduction}{67}{section.2.0.1}
+\contentsline {subsection}{\numberline {0.1.1}Definitions}{67}{subsection.2.0.1.1}
+\contentsline {subsection}{\numberline {0.1.2}Principles and Tags}{68}{subsection.2.0.1.2}
+\contentsline {subsection}{\numberline {0.1.3}Comments}{68}{subsection.2.0.1.3}
+\contentsline {subsection}{\numberline {0.1.4}Likening}{68}{subsection.2.0.1.4}
+\contentsline {subsection}{\numberline {0.1.5}Additional References}{68}{subsection.2.0.1.5}
+\contentsline {chapter}{\numberline {1}1 Nephi 1}{69}{chapter.2.1}
+\contentsline {section}{\numberline {1.1}Verse 1}{69}{section.2.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Definitions}{69}{subsection.2.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Principles and Tags}{69}{subsection.2.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Comments}{70}{subsection.2.1.1.3}
+\contentsline {subsection}{\numberline {1.1.4}Likening}{70}{subsection.2.1.1.4}
+\contentsline {subsection}{\numberline {1.1.5}Additional References}{71}{subsection.2.1.1.5}
+\contentsline {section}{\numberline {1.2}Verse 2}{71}{section.2.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Principles and Tags}{71}{subsection.2.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Comments}{71}{subsection.2.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Likening}{71}{subsection.2.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}Additional References}{72}{subsection.2.1.2.4}
+\contentsline {section}{\numberline {1.3}Verse 3}{72}{section.2.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Principles and Tags}{72}{subsection.2.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Comments}{72}{subsection.2.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Likening}{72}{subsection.2.1.3.3}
+\contentsline {subsection}{\numberline {1.3.4}Additional References}{73}{subsection.2.1.3.4}
+\contentsline {section}{\numberline {1.4}Verse 4}{73}{section.2.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Definitions}{73}{subsection.2.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Principles and Tags}{73}{subsection.2.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}Comments}{73}{subsection.2.1.4.3}
+\contentsline {subsection}{\numberline {1.4.4}Likening}{74}{subsection.2.1.4.4}
+\contentsline {subsection}{\numberline {1.4.5}Additional References}{74}{subsection.2.1.4.5}
+\contentsline {section}{\numberline {1.5}Verse 5}{74}{section.2.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Definitions}{74}{subsection.2.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}Principles and Tags}{74}{subsection.2.1.5.2}
+\contentsline {subsection}{\numberline {1.5.3}Comments}{75}{subsection.2.1.5.3}
+\contentsline {subsection}{\numberline {1.5.4}Likening}{75}{subsection.2.1.5.4}
+\contentsline {subsection}{\numberline {1.5.5}Additional References}{76}{subsection.2.1.5.5}
+\contentsline {section}{\numberline {1.6}Verse 6}{76}{section.2.1.6}
+\contentsline {subsection}{\numberline {1.6.1}Definitions}{76}{subsection.2.1.6.1}
+\contentsline {subsection}{\numberline {1.6.2}Principles and Tags}{77}{subsection.2.1.6.2}
+\contentsline {subsection}{\numberline {1.6.3}Comments}{77}{subsection.2.1.6.3}
+\contentsline {subsection}{\numberline {1.6.4}Likening}{77}{subsection.2.1.6.4}
+\contentsline {subsection}{\numberline {1.6.5}Additional References}{77}{subsection.2.1.6.5}
+\contentsline {section}{\numberline {1.7}Verse 7}{78}{section.2.1.7}
+\contentsline {subsection}{\numberline {1.7.1}Definitions}{78}{subsection.2.1.7.1}
+\contentsline {subsection}{\numberline {1.7.2}Principles and Tags}{78}{subsection.2.1.7.2}
+\contentsline {subsection}{\numberline {1.7.3}Comments}{79}{subsection.2.1.7.3}
+\contentsline {subsection}{\numberline {1.7.4}Likening}{79}{subsection.2.1.7.4}
+\contentsline {subsection}{\numberline {1.7.5}Additional References}{79}{subsection.2.1.7.5}
