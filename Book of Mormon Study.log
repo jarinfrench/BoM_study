@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.8.21)  18 OCT 2017 08:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.8.21)  23 OCT 2017 08:50
 entering extended mode
 **"Book of Mormon Study.tex"
 ("Book of Mormon Study.tex"
@@ -365,7 +365,11 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Chapter 3.
 [33
 
-] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44]
+] [34] [35] [36] [37]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[38] [39] [40] [41] [42] [43] [44]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -375,10 +379,10 @@ Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
  [47] [48] [49] [50] [51]
 
-LaTeX Warning: Reference `1Nephi1:8' on page 1 undefined on input line 1529.
+LaTeX Warning: Reference `1Nephi1:8' on page 1 undefined on input line 1531.
 
 
-LaTeX Warning: Reference `1Nephi1:8' on page 1 undefined on input line 1534.
+LaTeX Warning: Reference `1Nephi1:8' on page 1 undefined on input line 1536.
 
 [52] [53]
 
@@ -390,123 +394,123 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [60]
 
-LaTeX Warning: Reference `Mormon9:9' on page 1 undefined on input line 1864.
+LaTeX Warning: Reference `Mormon9:9' on page 1 undefined on input line 1866.
 
 [61]
 
-LaTeX Warning: Reference `Mormon9:9' on page 1 undefined on input line 1874.
+LaTeX Warning: Reference `Mormon9:9' on page 1 undefined on input line 1876.
 
 [62] [63]
 
-LaTeX Warning: Reference `1Nephi3:7' on page 1 undefined on input line 1994.
+LaTeX Warning: Reference `1Nephi3:7' on page 1 undefined on input line 1996.
 
 [64] [65] [66] [67] [68]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 2173.
+(hyperref)                removing `\@ifnextchar' on input line 2175.
 
 [69] [70] [71
 
 ]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 2177.
+(hyperref)                than one, level fixed on input line 2179.
 
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 2199.
+(hyperref)                than one, level fixed on input line 2201.
 
 [72] [73]
 Chapter 1.
 
-LaTeX Warning: Reference `1Nephi17' on page 1 undefined on input line 2278.
+LaTeX Warning: Reference `1Nephi17' on page 1 undefined on input line 2280.
 
 
-LaTeX Warning: Reference `1Nephi7' on page 1 undefined on input line 2278.
+LaTeX Warning: Reference `1Nephi7' on page 1 undefined on input line 2280.
 
 
-LaTeX Warning: Reference `1Nephi3' on page 1 undefined on input line 2278.
+LaTeX Warning: Reference `1Nephi3' on page 1 undefined on input line 2280.
 
 [74
 
 ] [75]
 
-LaTeX Warning: Reference `1Nephi3' on page 1 undefined on input line 2293.
+LaTeX Warning: Reference `1Nephi3' on page 1 undefined on input line 2295.
 
 
-LaTeX Warning: Reference `1Nephi7' on page 1 undefined on input line 2294.
+LaTeX Warning: Reference `1Nephi7' on page 1 undefined on input line 2296.
 
 
-LaTeX Warning: Reference `1Nephi17' on page 1 undefined on input line 2295.
+LaTeX Warning: Reference `1Nephi17' on page 1 undefined on input line 2297.
 
 [76]
 
-LaTeX Warning: Reference `Mormon8' on page 1 undefined on input line 2372.
+LaTeX Warning: Reference `Mormon8' on page 1 undefined on input line 2375.
 
 
-LaTeX Warning: Reference `Mormon6' on page 1 undefined on input line 2372.
+LaTeX Warning: Reference `Mormon6' on page 1 undefined on input line 2375.
 
 [77]
 
-LaTeX Warning: Reference `Moroni10:5' on page 1 undefined on input line 2373.
+LaTeX Warning: Reference `Moroni10:5' on page 1 undefined on input line 2376.
 
 [78] [79] [80] [81]
 
-LaTeX Warning: Reference `1Nephi1:14' on page 1 undefined on input line 2518.
+LaTeX Warning: Reference `1Nephi1:14' on page 1 undefined on input line 2521.
 
 
-LaTeX Warning: Reference `1Nephi1:13' on page 1 undefined on input line 2518.
+LaTeX Warning: Reference `1Nephi1:13' on page 1 undefined on input line 2521.
 
 
-LaTeX Warning: Reference `Jacob2:15' on page 1 undefined on input line 2523.
+LaTeX Warning: Reference `Jacob2:15' on page 1 undefined on input line 2526.
 
 
-LaTeX Warning: Reference `1Nephi1:14' on page 1 undefined on input line 2527.
+LaTeX Warning: Reference `1Nephi1:14' on page 1 undefined on input line 2530.
 
 
-LaTeX Warning: Reference `1Nephi1:13' on page 1 undefined on input line 2527.
+LaTeX Warning: Reference `1Nephi1:13' on page 1 undefined on input line 2530.
 
 [82]
 
-LaTeX Warning: Reference `Helaman10' on page 1 undefined on input line 2579.
+LaTeX Warning: Reference `Helaman10' on page 1 undefined on input line 2582.
 
 
-LaTeX Warning: Reference `Helaman10:2' on page 1 undefined on input line 2579.
+LaTeX Warning: Reference `Helaman10:2' on page 1 undefined on input line 2582.
 
 
-LaTeX Warning: Reference `Mosiah27:19' on page 1 undefined on input line 2581.
+LaTeX Warning: Reference `Mosiah27:19' on page 1 undefined on input line 2584.
 
 
-LaTeX Warning: Reference `Mosiah13:3' on page 1 undefined on input line 2581.
+LaTeX Warning: Reference `Mosiah13:3' on page 1 undefined on input line 2584.
 
 
-LaTeX Warning: Reference `1Nephi17:47' on page 1 undefined on input line 2581.
+LaTeX Warning: Reference `1Nephi17:47' on page 1 undefined on input line 2584.
 
 [83]
 
-LaTeX Warning: Reference `Helaman10:2' on page 1 undefined on input line 2592.
+LaTeX Warning: Reference `Helaman10:2' on page 1 undefined on input line 2595.
 
 
-LaTeX Warning: Reference `1Nephi17:48' on page 1 undefined on input line 2593.
+LaTeX Warning: Reference `1Nephi17:48' on page 1 undefined on input line 2596.
 
 
-LaTeX Warning: Reference `1Nephi17:47' on page 1 undefined on input line 2593.
+LaTeX Warning: Reference `1Nephi17:47' on page 1 undefined on input line 2596.
 
 
-LaTeX Warning: Reference `Mosiah13:3' on page 1 undefined on input line 2594.
+LaTeX Warning: Reference `Mosiah13:3' on page 1 undefined on input line 2597.
 
 [84]
 
-LaTeX Warning: Reference `Mosiah27:19' on page 1 undefined on input line 2595.
+LaTeX Warning: Reference `Mosiah27:19' on page 1 undefined on input line 2598.
 
 ("Book of Mormon Study.ind" [85] [86
 
 ])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2600.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2600.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2603.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2603.
  ("Book of Mormon Study.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2600.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2600.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2603.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2603.
 
 Package rerunfilecheck Info: File `"Book of Mormon Study".out' has not changed.
 
@@ -515,7 +519,7 @@ Package rerunfilecheck Info: File `"Book of Mormon Study".out' has not changed.
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2600.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2603.
  ) 
 Here is how much of TeX's memory you used:
  8334 strings out of 493673
@@ -524,7 +528,7 @@ Here is how much of TeX's memory you used:
  11283 multiletter control sequences out of 15000+200000
  10282 words of font info for 36 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 29i,9n,32p,3236b,492s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,9n,32p,3236b,496s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:
 /Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Pr
@@ -533,9 +537,9 @@ m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program
 Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Fi
 les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Program Files
  (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on "Book of Mormon Study.pdf" (87 pages, 458091 bytes).
+Output written on "Book of Mormon Study.pdf" (87 pages, 459294 bytes).
 PDF statistics:
- 1636 PDF objects out of 1728 (max. 8388607)
+ 1639 PDF objects out of 1728 (max. 8388607)
  368 named destinations out of 1000 (max. 500000)
  1345 words of extra memory for PDF output out of 10000 (max. 10000000)
 
