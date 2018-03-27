@@ -244,36 +244,36 @@
 \contentsline {subsection}{\numberline {1.1.4}Likening}{75}{subsection.2.1.1.4}
 \contentsline {subsection}{\numberline {1.1.5}Additional References}{76}{subsection.2.1.1.5}
 \contentsline {section}{\numberline {1.2}Verse 2}{77}{section.2.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Principles and Tags}{77}{subsection.2.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}Comments}{77}{subsection.2.1.2.2}
-\contentsline {subsection}{\numberline {1.2.3}Likening}{77}{subsection.2.1.2.3}
-\contentsline {subsection}{\numberline {1.2.4}Additional References}{77}{subsection.2.1.2.4}
+\contentsline {subsection}{\numberline {1.2.1}Principles and Tags}{78}{subsection.2.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Comments}{78}{subsection.2.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Likening}{78}{subsection.2.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}Additional References}{78}{subsection.2.1.2.4}
 \contentsline {section}{\numberline {1.3}Verse 3}{78}{section.2.1.3}
 \contentsline {subsection}{\numberline {1.3.1}Principles and Tags}{78}{subsection.2.1.3.1}
-\contentsline {subsection}{\numberline {1.3.2}Comments}{78}{subsection.2.1.3.2}
-\contentsline {subsection}{\numberline {1.3.3}Likening}{78}{subsection.2.1.3.3}
+\contentsline {subsection}{\numberline {1.3.2}Comments}{79}{subsection.2.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Likening}{79}{subsection.2.1.3.3}
 \contentsline {subsection}{\numberline {1.3.4}Additional References}{79}{subsection.2.1.3.4}
 \contentsline {section}{\numberline {1.4}Verse 4}{79}{section.2.1.4}
-\contentsline {subsection}{\numberline {1.4.1}Definitions}{79}{subsection.2.1.4.1}
-\contentsline {subsection}{\numberline {1.4.2}Principles and Tags}{79}{subsection.2.1.4.2}
-\contentsline {subsection}{\numberline {1.4.3}Comments}{79}{subsection.2.1.4.3}
+\contentsline {subsection}{\numberline {1.4.1}Definitions}{80}{subsection.2.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Principles and Tags}{80}{subsection.2.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}Comments}{80}{subsection.2.1.4.3}
 \contentsline {subsection}{\numberline {1.4.4}Likening}{80}{subsection.2.1.4.4}
 \contentsline {subsection}{\numberline {1.4.5}Additional References}{80}{subsection.2.1.4.5}
-\contentsline {section}{\numberline {1.5}Verse 5}{80}{section.2.1.5}
-\contentsline {subsection}{\numberline {1.5.1}Definitions}{80}{subsection.2.1.5.1}
-\contentsline {subsection}{\numberline {1.5.2}Principles and Tags}{80}{subsection.2.1.5.2}
+\contentsline {section}{\numberline {1.5}Verse 5}{81}{section.2.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Definitions}{81}{subsection.2.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}Principles and Tags}{81}{subsection.2.1.5.2}
 \contentsline {subsection}{\numberline {1.5.3}Comments}{81}{subsection.2.1.5.3}
-\contentsline {subsection}{\numberline {1.5.4}Likening}{81}{subsection.2.1.5.4}
+\contentsline {subsection}{\numberline {1.5.4}Likening}{82}{subsection.2.1.5.4}
 \contentsline {subsection}{\numberline {1.5.5}Additional References}{82}{subsection.2.1.5.5}
 \contentsline {section}{\numberline {1.6}Verse 6}{82}{section.2.1.6}
-\contentsline {subsection}{\numberline {1.6.1}Definitions}{82}{subsection.2.1.6.1}
+\contentsline {subsection}{\numberline {1.6.1}Definitions}{83}{subsection.2.1.6.1}
 \contentsline {subsection}{\numberline {1.6.2}Principles and Tags}{83}{subsection.2.1.6.2}
 \contentsline {subsection}{\numberline {1.6.3}Comments}{83}{subsection.2.1.6.3}
-\contentsline {subsection}{\numberline {1.6.4}Likening}{83}{subsection.2.1.6.4}
-\contentsline {subsection}{\numberline {1.6.5}Additional References}{83}{subsection.2.1.6.5}
+\contentsline {subsection}{\numberline {1.6.4}Likening}{84}{subsection.2.1.6.4}
+\contentsline {subsection}{\numberline {1.6.5}Additional References}{84}{subsection.2.1.6.5}
 \contentsline {section}{\numberline {1.7}Verse 7}{84}{section.2.1.7}
-\contentsline {subsection}{\numberline {1.7.1}Definitions}{84}{subsection.2.1.7.1}
-\contentsline {subsection}{\numberline {1.7.2}Principles and Tags}{84}{subsection.2.1.7.2}
+\contentsline {subsection}{\numberline {1.7.1}Definitions}{85}{subsection.2.1.7.1}
+\contentsline {subsection}{\numberline {1.7.2}Principles and Tags}{85}{subsection.2.1.7.2}
 \contentsline {subsection}{\numberline {1.7.3}Comments}{85}{subsection.2.1.7.3}
-\contentsline {subsection}{\numberline {1.7.4}Likening}{85}{subsection.2.1.7.4}
-\contentsline {subsection}{\numberline {1.7.5}Additional References}{85}{subsection.2.1.7.5}
+\contentsline {subsection}{\numberline {1.7.4}Likening}{86}{subsection.2.1.7.4}
+\contentsline {subsection}{\numberline {1.7.5}Additional References}{86}{subsection.2.1.7.5}
